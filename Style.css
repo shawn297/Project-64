@@ -1,0 +1,237 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.index{
+    background-image: url("🔑\ Unlock\ Your\ Dream\ Home_\ Top\ Real\ Estate\ Tips.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.Navbar{
+    width: 95%;
+    height: auto;
+    margin-left: 30px;
+}
+
+.logo{
+    color: blue;
+    font-size: 40px;
+    font-family: arial;
+    float: left;
+    padding-top: .6%;
+    cursor: pointer;
+}
+
+.menu{
+    width: 600px;
+    float: left;
+    height: 70px;
+}
+
+ul{
+    float: left;
+    display: flex;
+    padding-top: 30px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 14%;
+}
+ul li{
+    list-style: none;
+    margin-left: 60px;
+    font-size: 16px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #000;
+    font-family: Arial, helvetica, sans-serif;
+    font-weight: bold;
+}
+
+ul li a:hover{
+    color: #ff7200;
+}
+
+.title{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.title h1{
+    cursor: pointer;
+    font-family: sans-serif;
+    color: rgb(255, 0, 0);
+    font-size: 96px;
+}
+
+
+.Par{
+    padding-bottom: 25px;
+    padding-right: 20px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    color: cyan;
+    font-size: 23px;
+    background-color: red;
+}
+
+.button{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn{
+    color: red;
+    padding: 5px 20px;
+    font-size: 18px;
+    text-decoration: none;
+    border: 1px solid red;
+    background-color: rgb(51, 216, 205);
+}
+
+.btn:hover{
+    background-color: green;
+    color: #000;
+}
+
+h2{
+    color: black;
+    background-color: goldenrod;
+    font-size: 56px;
+}
+
+.Sector1{
+    color: yellow;
+    padding: 15% 10%;
+    text-align: center;
+    font-size: 28px;
+}
+
+.Sector2{
+    color: yellow;
+    padding: 15% 10%;
+    text-align: center;
+    font-size: 28px;
+}
+
+.about{
+    background-image: url("Image765.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.scroll-container {
+        display: flex;
+        overflow-x: auto;
+        gap: 10px;
+        padding: 10px;
+        scroll-behavior: smooth;
+        white-space: nowrap;
+    }
+
+    .scroll-container img {
+        width: 300px;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 10px;
+        flex-shrink: 0;
+    }
+
+    /* Optional scrollbar styling */
+    .scroll-container::-webkit-scrollbar {
+        height: 8px;
+    }
+
+    .scroll-container::-webkit-scrollbar-thumb {
+        background: #555;
+        border-radius: 4px;
+    }
+
+    .scroll-container::-webkit-scrollbar-thumb:hover {
+        background: #555;
+    }
+
+div.scroll-container {
+    background-color: gray;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+
+.Sector19{
+    width: 600px;
+    float: left;
+    height: 70px;
+}
+
+ul{
+    float: left;
+    display: flex;
+    padding-top: 30px;
+    justify-content: center;
+    align-items: center;
+    margin-right: 14%;
+}
+ul li{
+    list-style: none;
+    margin-right: 60px;
+    font-size: 16px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-family: Arial, helvetica, sans-serif;
+    font-weight: bold;
+}
+
+ul li a:hover{
+    color: #ff7200;
+}
+
+.Contact{
+    background-image: url("images-56.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+h3{
+    color: rgb(26, 19, 230);
+    text-align: center;
+    background-color: #ff7200;
+    font-size: 23px;
+}
+
+.Preview14{
+    color: rgb(26, 19, 230);
+    text-align: center;
+    padding: 5% 5%;
+    font-size: 23px;
+}
+
+.Sector13{
+    color: rgb(26, 19, 230);
+    text-align: center;
+    background-color: #ff7200;
+    font-size: 23px;
+}
